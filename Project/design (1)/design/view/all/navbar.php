@@ -10,7 +10,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-          <li class="active"><a href="#"><span class="glyphicon glyphicon-home"> Home</span></a></li>
+          <li class="active"><a href="?clase=index&metodo=index"><span class="glyphicon glyphicon-home"> Home</span></a></li>
         <li><a href="#aboutus"><span class="glyphicon glyphicon-eye-open"> About us?</span></a></li>
         <li><a href="#about"><span class="glyphicon glyphicon-globe"> About...</span></a></li> 
         <li><a href="#contac"><span class="glyphicon glyphicon-phone-alt"> Contact</span></a></li>

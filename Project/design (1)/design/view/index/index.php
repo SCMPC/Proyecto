@@ -1,1 +1,0 @@
-<a href="?clase=ayuda&metodo=ayuda"></a><input type="submit" value="need help?"><a id="ayuda"></a>
