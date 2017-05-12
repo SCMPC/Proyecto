@@ -32,6 +32,13 @@ class adminController{
           require_once ('view/admin/ultimoingreso.php');
           require_once ('view/all/footer.php');
       }
+      
+      public function actividad() {
+          require_once ('view/all/header.php');
+          require_once ('view/all/navbar.php');
+          require_once ('view/admin/activity.php');
+          require_once ('view/all/footer.php');
+      }
 }
 
  

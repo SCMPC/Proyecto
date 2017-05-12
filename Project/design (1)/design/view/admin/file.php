@@ -13,3 +13,5 @@
 </center>
 <br><br>
 
+<a href="?clase=admin&metodo=actividad">Tablllee</a>
+
