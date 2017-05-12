@@ -1,24 +1,15 @@
-    <nav class="navbar navbar-fixed-top">
+<nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
-      </button>
-     <a class="navbar-brand" href="#">Welcome</a>
+      <a class="navbar-brand" href="#" style="color: #fff"">SPS</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-          <li class="active"><a href="?clase=index&metodo=index"><span class="glyphicon glyphicon-home"> Home</span></a></li>
-        <li><a href="#aboutus"><span class="glyphicon glyphicon-eye-open"> About us?</span></a></li>
-        <li><a href="#about"><span class="glyphicon glyphicon-globe"> About...</span></a></li> 
-        <li><a href="#contac"><span class="glyphicon glyphicon-phone-alt"> Contact</span></a></li>
+        <ul class="nav navbar-nav">
+      <li class="active"><a href="#" style="background-color:#FB7311; color: #fff">Bienvenido(a)</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-          <li><a href="?clase=sign_up&metodo=registry"><span class="glyphicon glyphicon-user"></span> Sign up</a></li>
-        <li><a href="?clase=login&metodo=login"><span class="glyphicon glyphicon-log-in"></span> Long in</a></li>
-      </ul>
-    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="?clase=login&metodo=login" style="color: #fff"><span class="glyphicon glyphicon-user"></span> Iniciar sesión</a></li>
+    </ul>
   </div>
+ </div>     
 </nav>

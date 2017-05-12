@@ -1,5 +1,5 @@
-<center> <br><br><br>   
-    <img src="assets/img/banner.jpg" width="300" height="300" class="img-rounded">
+<center> <br> 
+    <img src="assets/img/banner.jpg" width="200" height="200" class="img-rounded">
     <br><br>
     <div class="container">    
 <div class="jumbotron" style="background-color:#74F142;">    
