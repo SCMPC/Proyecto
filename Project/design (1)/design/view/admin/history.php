@@ -21,3 +21,5 @@
     </div>     
 </div>
     </center>
+<br>
+<a href="?clase=admin&metodo=ultimo">Table</a>

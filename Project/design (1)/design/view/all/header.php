@@ -119,6 +119,7 @@ div1{
     padding: 5px 200px;
 }
 </style>
+<link rel="stylesheet" href="assets/font-awesome/css/font-awesome.css">
 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css">
 </head>
 <body style="background-color:#fff">
