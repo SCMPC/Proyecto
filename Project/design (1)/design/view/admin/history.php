@@ -22,4 +22,6 @@
 </div>
     </center>
 <br>
+<a href="?clase=admin&metodo=vehiculo">.lllll.</a>
+<a href="?clase=admin&metodo=problem">Holas.l.</a>
 <a href="?clase=admin&metodo=ultimo">Table</a>

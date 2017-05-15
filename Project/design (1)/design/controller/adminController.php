@@ -39,6 +39,27 @@ class adminController{
           require_once ('view/admin/activity.php');
           require_once ('view/all/footer.php');
       }
+      
+      public function tipo() {
+          require_once ('view/all/header.php');
+          require_once ('view/all/navbar.php');
+          require_once ('view/admin/atencion-al-usuario.php');
+          require_once ('view/all/footer.php');
+      }
+      
+      public function problem() {
+          require_once ('view/all/header.php');
+          require_once ('view/all/navbar.php');
+          require_once ('view/admin/tablaproblem.php');
+          require_once ('view/all/footer.php');
+      }
+      
+      public function vehiculo() {
+          require_once ('view/all/header.php');
+          require_once ('view/all/navbar.php');
+          require_once ('view/admin/tablavehiculo.php');
+          require_once ('view/all/footer.php');
+      }
 }
 
  

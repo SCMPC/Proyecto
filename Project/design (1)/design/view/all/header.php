@@ -3,6 +3,20 @@
     <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <style>
+    textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+#name1{position: relative;
+       left:10px; 
+}
     .navbar {
 	background-color:#FB7311;
 	}
@@ -49,9 +63,7 @@ padding: 14px 28px;
 .success {background-color: #4CAF50;}
 .success:hover {background-color: #46a049;}
 
-    h2 {
-    text-shadow: 2px 1px black;
-}
+
     p1{
         float: right;
         padding: 1px 1300px;
